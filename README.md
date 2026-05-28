@@ -1,9 +1,9 @@
 Roslyn Code-Wächter v41 - Dependency Scanner Edition
-https://www.youtube.com/watch?v=6_auB5QlPl4&t=74s
+
 Der Roslyn CodeWächter ist mehr als nur ein Tool – er ist dein **digitaler Zwilling** deines Projekts. Je länger du ihn nutzt, desto wertvoller wird die Seele-Datenbank und desto sicherer wird deine gesamte Code-Basis.
 
 **Wichtigster Workflow:**
-
+https://www.youtube.com/watch?v=6_auB5QlPl4&t=74s
 1. Alten Code links laden
 2. Neuen Code rechts einfügen
 3. **Analyse** starten → prüfen
