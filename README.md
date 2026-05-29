@@ -1,4 +1,4 @@
-Roslyn Code-Wächter v41 - Dependency Scanner Edition
+Roslyn Code-Wächter https://script.google.com/macros/s/AKfycbw4W6mIeN6h9CI3WC93pV5vd0cmjhJtBW298zuOkvXLIiesmVuiJndghnv-MVPWXqmklQ/exec - Dependency Scanner Edition
 
 Der Roslyn CodeWächter ist mehr als nur ein Tool – er ist dein **digitaler Zwilling** deines Projekts. Je länger du ihn nutzt, desto wertvoller wird die Seele-Datenbank und desto sicherer wird deine gesamte Code-Basis.
 
@@ -11,7 +11,7 @@ https://youtu.be/BgtkovcvBlI?si=gXX7HeSDRhRmsJsA
 5. **Compile** → testen
 6. **Snapshot** → sichern
 
-# Willkommen im Kommandozentrum des Roslyn Code-Wächters (v46)
+# Willkommen im Kommandozentrum des Roslyn Code-Wächters (v42)
 
 ## 1. Einführung: Ihr persönlicher KI-Entwicklungs-Bodyguard
 
